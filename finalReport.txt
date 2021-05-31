@@ -1,0 +1,11 @@
+01. Maximum Length of the Train Queue - 5
+02. Maximum Time in the train Queue - 18
+03. Minimum Time in the train Queue - 6
+04. Average time in the train Queue - 11.0
+
+
+1. seat 1 | budhvin thinomal | Spent time: 13
+2. seat 3 | kavindu medhanga | Spent time: 12
+3. seat 4 | nilki upathissa | Spent time: 6
+4. seat 10 | shan ekanayke | Spent time: 10
+5. seat 15 | ganguli silva | Spent time: 18

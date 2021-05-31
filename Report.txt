@@ -1,0 +1,12 @@
+01. Maximum length of the queue - 6
+02. Maximum time spent in queue - 18
+03. Minimum time spent in queue - 3
+04. Average time spent in queue - 9.0
+
+
+1.Name: budhvin thinomal seat 1 | Spent time: 11
+2.Name: kavindu medhanga seat 3 | Spent time: 18
+3.Name: nilki upathissa seat 4 | Spent time: 16
+4.Name: shan ekanayke seat 10 | Spent time: 4
+5.Name: ganguli silva seat 15 | Spent time: 5
+6.Name: irushi ravihari seat 24 | Spent time: 3
